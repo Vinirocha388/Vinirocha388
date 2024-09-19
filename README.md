@@ -5,7 +5,7 @@
 
 
 
-![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinirocha388&show_icons=true&theme=dracula)
+![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinirocha388&show_icons=true&theme=dark)
 
 
 ### Tecnologias que eu uso no meu dia
